@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test">
+    <sys_atf_test action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <copied_from display_value="Order Robot">b4a31dded51410107f44d8a72cdffb0a</copied_from>
+        <description>This is the completed Order Robots test for Lab 1. This test opens a new Robot order form, sets all of the required values, submits it, then verifies a shipping confirmation email is sent.&#13;
+&#13;
+Prior to running this test, confirm the "Send email when order shipped" business rule is active.</description>
+        <enable_parameterized_testing>false</enable_parameterized_testing>
+        <name>Lab 1: Completed Test</name>
+        <parameters/>
+        <remember/>
+        <sys_class_name>sys_atf_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-23 23:30:15</sys_created_on>
+        <sys_id>7f30aaa2dd9410107f440aeaeb18146b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Lab 1: Completed Test</sys_name>
+        <sys_package display_value="Custom Robots" source="sn_custom_robots">5cb27d3873a11300f660eeadfff6a755</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom Robots">5cb27d3873a11300f660eeadfff6a755</sys_scope>
+        <sys_update_name>sys_atf_test_7f30aaa2dd9410107f440aeaeb18146b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-23 23:33:52</sys_updated_on>
+    </sys_atf_test>
+    <sys_variable_value action="delete_multiple" query="document_key=7f30aaa2dd9410107f440aeaeb18146b"/>
+</record_update>

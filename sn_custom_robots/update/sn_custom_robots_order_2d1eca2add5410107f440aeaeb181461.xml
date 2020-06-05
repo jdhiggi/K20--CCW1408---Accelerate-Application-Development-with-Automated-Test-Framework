@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_custom_robots_order">
+    <sn_custom_robots_order action="INSERT_OR_UPDATE">
+        <arms display_value="Humanoid arms">1b51a6f473e11300f660eeadfff6a7e4</arms>
+        <body display_value="Large pneumatic cylinder">3bbd137473611300f660eeadfff6a7d0</body>
+        <buyer display_value="Abraham Lincoln">a8f98bb0eb32010045e1a5115206fe3a</buyer>
+        <from_template/>
+        <head display_value="360º rotatable dome with accessory ports">f03292b073e11300f660eeadfff6a762</head>
+        <legs display_value="Reinforced raptor legs">143e027073e11300f660eeadfff6a7d4</legs>
+        <number>ORD0001002</number>
+        <price>0</price>
+        <request_item/>
+        <requested>2020-04-23 22:11:02</requested>
+        <shipped>2020-04-23 22:11:03</shipped>
+        <status>open</status>
+        <sys_class_name>sn_custom_robots_order</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-23 22:11:11</sys_created_on>
+        <sys_id>2d1eca2add5410107f440aeaeb181461</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Custom Robots" source="sn_custom_robots">5cb27d3873a11300f660eeadfff6a755</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom Robots">5cb27d3873a11300f660eeadfff6a755</sys_scope>
+        <sys_update_name>sn_custom_robots_order_2d1eca2add5410107f440aeaeb181461</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-23 22:11:11</sys_updated_on>
+    </sn_custom_robots_order>
+    <fx_price action="delete_multiple" query="id=2d1eca2add5410107f440aeaeb181461"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>2d1eca2add5410107f440aeaeb181461</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-23 22:11:11</sys_created_on>
+        <sys_id>a12e0e2add5410107f440aeaeb181413</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-23 22:11:11</sys_updated_on>
+        <table>sn_custom_robots_order</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>
